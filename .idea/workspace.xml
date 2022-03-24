@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="263bae62-ef05-4c11-ac65-ebcddf77b7bc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/randomLanguages/c1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/randomLanguages/c2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/randomLanguages/c3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/randomLanguages/cpp1.CPP" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/randomLanguages/cpp2.CPP" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/randomLanguages/cpp3.CPP" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/randomLanguages/java1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/randomLanguages/java2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/randomLanguages/java3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/randomLanguages/javascript1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/randomLanguages/javascript2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/randomLanguages/javascript3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/randomLanguages/typescript1.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/randomLanguages/typescript2.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/randomLanguages/typescript3.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.txt" beforeDir="false" afterPath="$PROJECT_DIR$/main.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="26oW6F2EvASUmIEhb01ondGSNsc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="github-lab" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="263bae62-ef05-4c11-ac65-ebcddf77b7bc" name="Changes" comment="" />
+      <created>1648090243121</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648090243121</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
